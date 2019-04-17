@@ -694,11 +694,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "D:\\coding\\Algoritahms\\radom\\random\\random\\random.csproj",
+      "projectUniqueName": "D:\\Programming\\Algorithms\\radom\\random\\random\\random.csproj",
       "projectName": "random",
-      "projectPath": "D:\\coding\\Algoritahms\\radom\\random\\random\\random.csproj",
+      "projectPath": "D:\\Programming\\Algorithms\\radom\\random\\random\\random.csproj",
       "packagesPath": "C:\\Users\\dimit\\.nuget\\packages\\",
-      "outputPath": "D:\\coding\\Algoritahms\\radom\\random\\random\\obj\\",
+      "outputPath": "D:\\Programming\\Algorithms\\radom\\random\\random\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"

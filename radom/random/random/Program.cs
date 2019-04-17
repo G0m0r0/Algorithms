@@ -6,7 +6,7 @@ namespace random
     {
         static void Main(string[] args)
         {
-
+            Console.WriteLine("Test");
         }
         public static void Shuffle<T>(T[] source)
         {
