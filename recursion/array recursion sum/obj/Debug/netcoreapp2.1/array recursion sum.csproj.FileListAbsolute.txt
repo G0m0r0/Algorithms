@@ -1,0 +1,11 @@
+D:\coding\Algoritahms\array recursion sum\array recursion sum\bin\Debug\netcoreapp2.1\array recursion sum.deps.json
+D:\coding\Algoritahms\array recursion sum\array recursion sum\bin\Debug\netcoreapp2.1\array recursion sum.runtimeconfig.json
+D:\coding\Algoritahms\array recursion sum\array recursion sum\bin\Debug\netcoreapp2.1\array recursion sum.runtimeconfig.dev.json
+D:\coding\Algoritahms\array recursion sum\array recursion sum\bin\Debug\netcoreapp2.1\array recursion sum.dll
+D:\coding\Algoritahms\array recursion sum\array recursion sum\bin\Debug\netcoreapp2.1\array recursion sum.pdb
+D:\coding\Algoritahms\array recursion sum\array recursion sum\obj\Debug\netcoreapp2.1\array recursion sum.csprojAssemblyReference.cache
+D:\coding\Algoritahms\array recursion sum\array recursion sum\obj\Debug\netcoreapp2.1\array recursion sum.csproj.CoreCompileInputs.cache
+D:\coding\Algoritahms\array recursion sum\array recursion sum\obj\Debug\netcoreapp2.1\array recursion sum.AssemblyInfoInputs.cache
+D:\coding\Algoritahms\array recursion sum\array recursion sum\obj\Debug\netcoreapp2.1\array recursion sum.AssemblyInfo.cs
+D:\coding\Algoritahms\array recursion sum\array recursion sum\obj\Debug\netcoreapp2.1\array recursion sum.dll
+D:\coding\Algoritahms\array recursion sum\array recursion sum\obj\Debug\netcoreapp2.1\array recursion sum.pdb

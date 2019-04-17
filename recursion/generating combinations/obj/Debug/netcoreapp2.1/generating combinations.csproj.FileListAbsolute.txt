@@ -1,0 +1,11 @@
+D:\coding\Algoritahms\array recursion sum\generating combinations\bin\Debug\netcoreapp2.1\generating combinations.deps.json
+D:\coding\Algoritahms\array recursion sum\generating combinations\bin\Debug\netcoreapp2.1\generating combinations.runtimeconfig.json
+D:\coding\Algoritahms\array recursion sum\generating combinations\bin\Debug\netcoreapp2.1\generating combinations.runtimeconfig.dev.json
+D:\coding\Algoritahms\array recursion sum\generating combinations\bin\Debug\netcoreapp2.1\generating combinations.dll
+D:\coding\Algoritahms\array recursion sum\generating combinations\bin\Debug\netcoreapp2.1\generating combinations.pdb
+D:\coding\Algoritahms\array recursion sum\generating combinations\obj\Debug\netcoreapp2.1\generating combinations.csprojAssemblyReference.cache
+D:\coding\Algoritahms\array recursion sum\generating combinations\obj\Debug\netcoreapp2.1\generating combinations.csproj.CoreCompileInputs.cache
+D:\coding\Algoritahms\array recursion sum\generating combinations\obj\Debug\netcoreapp2.1\generating combinations.AssemblyInfoInputs.cache
+D:\coding\Algoritahms\array recursion sum\generating combinations\obj\Debug\netcoreapp2.1\generating combinations.AssemblyInfo.cs
+D:\coding\Algoritahms\array recursion sum\generating combinations\obj\Debug\netcoreapp2.1\generating combinations.dll
+D:\coding\Algoritahms\array recursion sum\generating combinations\obj\Debug\netcoreapp2.1\generating combinations.pdb

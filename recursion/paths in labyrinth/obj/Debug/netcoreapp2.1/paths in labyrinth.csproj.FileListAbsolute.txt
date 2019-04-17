@@ -1,0 +1,11 @@
+D:\coding\Algoritahms\recursion\paths in labyrinth\bin\Debug\netcoreapp2.1\paths in labyrinth.deps.json
+D:\coding\Algoritahms\recursion\paths in labyrinth\bin\Debug\netcoreapp2.1\paths in labyrinth.runtimeconfig.json
+D:\coding\Algoritahms\recursion\paths in labyrinth\bin\Debug\netcoreapp2.1\paths in labyrinth.runtimeconfig.dev.json
+D:\coding\Algoritahms\recursion\paths in labyrinth\bin\Debug\netcoreapp2.1\paths in labyrinth.dll
+D:\coding\Algoritahms\recursion\paths in labyrinth\bin\Debug\netcoreapp2.1\paths in labyrinth.pdb
+D:\coding\Algoritahms\recursion\paths in labyrinth\obj\Debug\netcoreapp2.1\paths in labyrinth.csprojAssemblyReference.cache
+D:\coding\Algoritahms\recursion\paths in labyrinth\obj\Debug\netcoreapp2.1\paths in labyrinth.csproj.CoreCompileInputs.cache
+D:\coding\Algoritahms\recursion\paths in labyrinth\obj\Debug\netcoreapp2.1\paths in labyrinth.AssemblyInfoInputs.cache
+D:\coding\Algoritahms\recursion\paths in labyrinth\obj\Debug\netcoreapp2.1\paths in labyrinth.AssemblyInfo.cs
+D:\coding\Algoritahms\recursion\paths in labyrinth\obj\Debug\netcoreapp2.1\paths in labyrinth.dll
+D:\coding\Algoritahms\recursion\paths in labyrinth\obj\Debug\netcoreapp2.1\paths in labyrinth.pdb

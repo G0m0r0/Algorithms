@@ -1,0 +1,11 @@
+D:\coding\Algoritahms\array recursion sum\recursive drawing\bin\Debug\netcoreapp2.1\recursive drawing.deps.json
+D:\coding\Algoritahms\array recursion sum\recursive drawing\bin\Debug\netcoreapp2.1\recursive drawing.runtimeconfig.json
+D:\coding\Algoritahms\array recursion sum\recursive drawing\bin\Debug\netcoreapp2.1\recursive drawing.runtimeconfig.dev.json
+D:\coding\Algoritahms\array recursion sum\recursive drawing\bin\Debug\netcoreapp2.1\recursive drawing.dll
+D:\coding\Algoritahms\array recursion sum\recursive drawing\bin\Debug\netcoreapp2.1\recursive drawing.pdb
+D:\coding\Algoritahms\array recursion sum\recursive drawing\obj\Debug\netcoreapp2.1\recursive drawing.csprojAssemblyReference.cache
+D:\coding\Algoritahms\array recursion sum\recursive drawing\obj\Debug\netcoreapp2.1\recursive drawing.csproj.CoreCompileInputs.cache
+D:\coding\Algoritahms\array recursion sum\recursive drawing\obj\Debug\netcoreapp2.1\recursive drawing.AssemblyInfoInputs.cache
+D:\coding\Algoritahms\array recursion sum\recursive drawing\obj\Debug\netcoreapp2.1\recursive drawing.AssemblyInfo.cs
+D:\coding\Algoritahms\array recursion sum\recursive drawing\obj\Debug\netcoreapp2.1\recursive drawing.dll
+D:\coding\Algoritahms\array recursion sum\recursive drawing\obj\Debug\netcoreapp2.1\recursive drawing.pdb

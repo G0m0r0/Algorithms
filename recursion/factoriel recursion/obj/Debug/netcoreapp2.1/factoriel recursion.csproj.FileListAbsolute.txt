@@ -1,0 +1,11 @@
+D:\coding\Algoritahms\array recursion sum\factoriel recursion\bin\Debug\netcoreapp2.1\factoriel recursion.deps.json
+D:\coding\Algoritahms\array recursion sum\factoriel recursion\bin\Debug\netcoreapp2.1\factoriel recursion.runtimeconfig.json
+D:\coding\Algoritahms\array recursion sum\factoriel recursion\bin\Debug\netcoreapp2.1\factoriel recursion.runtimeconfig.dev.json
+D:\coding\Algoritahms\array recursion sum\factoriel recursion\bin\Debug\netcoreapp2.1\factoriel recursion.dll
+D:\coding\Algoritahms\array recursion sum\factoriel recursion\bin\Debug\netcoreapp2.1\factoriel recursion.pdb
+D:\coding\Algoritahms\array recursion sum\factoriel recursion\obj\Debug\netcoreapp2.1\factoriel recursion.csprojAssemblyReference.cache
+D:\coding\Algoritahms\array recursion sum\factoriel recursion\obj\Debug\netcoreapp2.1\factoriel recursion.csproj.CoreCompileInputs.cache
+D:\coding\Algoritahms\array recursion sum\factoriel recursion\obj\Debug\netcoreapp2.1\factoriel recursion.AssemblyInfoInputs.cache
+D:\coding\Algoritahms\array recursion sum\factoriel recursion\obj\Debug\netcoreapp2.1\factoriel recursion.AssemblyInfo.cs
+D:\coding\Algoritahms\array recursion sum\factoriel recursion\obj\Debug\netcoreapp2.1\factoriel recursion.dll
+D:\coding\Algoritahms\array recursion sum\factoriel recursion\obj\Debug\netcoreapp2.1\factoriel recursion.pdb

@@ -1,0 +1,22 @@
+D:\coding\Algoritahms\array recursion sum\generating 01 vector\bin\Debug\netcoreapp2.1\generating 01 vector.deps.json
+D:\coding\Algoritahms\array recursion sum\generating 01 vector\bin\Debug\netcoreapp2.1\generating 01 vector.runtimeconfig.json
+D:\coding\Algoritahms\array recursion sum\generating 01 vector\bin\Debug\netcoreapp2.1\generating 01 vector.runtimeconfig.dev.json
+D:\coding\Algoritahms\array recursion sum\generating 01 vector\bin\Debug\netcoreapp2.1\generating 01 vector.dll
+D:\coding\Algoritahms\array recursion sum\generating 01 vector\bin\Debug\netcoreapp2.1\generating 01 vector.pdb
+D:\coding\Algoritahms\array recursion sum\generating 01 vector\obj\Debug\netcoreapp2.1\generating 01 vector.csproj.CoreCompileInputs.cache
+D:\coding\Algoritahms\array recursion sum\generating 01 vector\obj\Debug\netcoreapp2.1\generating 01 vector.AssemblyInfoInputs.cache
+D:\coding\Algoritahms\array recursion sum\generating 01 vector\obj\Debug\netcoreapp2.1\generating 01 vector.AssemblyInfo.cs
+D:\coding\Algoritahms\array recursion sum\generating 01 vector\obj\Debug\netcoreapp2.1\generating 01 vector.dll
+D:\coding\Algoritahms\array recursion sum\generating 01 vector\obj\Debug\netcoreapp2.1\generating 01 vector.pdb
+D:\coding\Algoritahms\array recursion sum\generating 01 vector\obj\Debug\netcoreapp2.1\generating 01 vector.csprojAssemblyReference.cache
+D:\coding\Algoritahms\recursion\generating 01 vector\bin\Debug\netcoreapp2.1\generating 01 vector.deps.json
+D:\coding\Algoritahms\recursion\generating 01 vector\bin\Debug\netcoreapp2.1\generating 01 vector.runtimeconfig.json
+D:\coding\Algoritahms\recursion\generating 01 vector\bin\Debug\netcoreapp2.1\generating 01 vector.runtimeconfig.dev.json
+D:\coding\Algoritahms\recursion\generating 01 vector\bin\Debug\netcoreapp2.1\generating 01 vector.dll
+D:\coding\Algoritahms\recursion\generating 01 vector\bin\Debug\netcoreapp2.1\generating 01 vector.pdb
+D:\coding\Algoritahms\recursion\generating 01 vector\obj\Debug\netcoreapp2.1\generating 01 vector.csprojAssemblyReference.cache
+D:\coding\Algoritahms\recursion\generating 01 vector\obj\Debug\netcoreapp2.1\generating 01 vector.csproj.CoreCompileInputs.cache
+D:\coding\Algoritahms\recursion\generating 01 vector\obj\Debug\netcoreapp2.1\generating 01 vector.AssemblyInfoInputs.cache
+D:\coding\Algoritahms\recursion\generating 01 vector\obj\Debug\netcoreapp2.1\generating 01 vector.AssemblyInfo.cs
+D:\coding\Algoritahms\recursion\generating 01 vector\obj\Debug\netcoreapp2.1\generating 01 vector.dll
+D:\coding\Algoritahms\recursion\generating 01 vector\obj\Debug\netcoreapp2.1\generating 01 vector.pdb
