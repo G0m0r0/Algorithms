@@ -1,0 +1,11 @@
+D:\Programming\Algorithms\graphs\Graphs\depth first search DFS\bin\Debug\netcoreapp2.1\depth first search DFS.deps.json
+D:\Programming\Algorithms\graphs\Graphs\depth first search DFS\bin\Debug\netcoreapp2.1\depth first search DFS.runtimeconfig.json
+D:\Programming\Algorithms\graphs\Graphs\depth first search DFS\bin\Debug\netcoreapp2.1\depth first search DFS.runtimeconfig.dev.json
+D:\Programming\Algorithms\graphs\Graphs\depth first search DFS\bin\Debug\netcoreapp2.1\depth first search DFS.dll
+D:\Programming\Algorithms\graphs\Graphs\depth first search DFS\bin\Debug\netcoreapp2.1\depth first search DFS.pdb
+D:\Programming\Algorithms\graphs\Graphs\depth first search DFS\obj\Debug\netcoreapp2.1\depth first search DFS.csprojAssemblyReference.cache
+D:\Programming\Algorithms\graphs\Graphs\depth first search DFS\obj\Debug\netcoreapp2.1\depth first search DFS.csproj.CoreCompileInputs.cache
+D:\Programming\Algorithms\graphs\Graphs\depth first search DFS\obj\Debug\netcoreapp2.1\depth first search DFS.AssemblyInfoInputs.cache
+D:\Programming\Algorithms\graphs\Graphs\depth first search DFS\obj\Debug\netcoreapp2.1\depth first search DFS.AssemblyInfo.cs
+D:\Programming\Algorithms\graphs\Graphs\depth first search DFS\obj\Debug\netcoreapp2.1\depth first search DFS.dll
+D:\Programming\Algorithms\graphs\Graphs\depth first search DFS\obj\Debug\netcoreapp2.1\depth first search DFS.pdb

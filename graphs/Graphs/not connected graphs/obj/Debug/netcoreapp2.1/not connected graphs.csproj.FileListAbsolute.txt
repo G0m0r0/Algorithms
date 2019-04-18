@@ -1,0 +1,10 @@
+D:\Programming\Algorithms\graphs\Graphs\not connected graphs\bin\Debug\netcoreapp2.1\not connected graphs.deps.json
+D:\Programming\Algorithms\graphs\Graphs\not connected graphs\bin\Debug\netcoreapp2.1\not connected graphs.runtimeconfig.json
+D:\Programming\Algorithms\graphs\Graphs\not connected graphs\bin\Debug\netcoreapp2.1\not connected graphs.runtimeconfig.dev.json
+D:\Programming\Algorithms\graphs\Graphs\not connected graphs\bin\Debug\netcoreapp2.1\not connected graphs.dll
+D:\Programming\Algorithms\graphs\Graphs\not connected graphs\bin\Debug\netcoreapp2.1\not connected graphs.pdb
+D:\Programming\Algorithms\graphs\Graphs\not connected graphs\obj\Debug\netcoreapp2.1\not connected graphs.csproj.CoreCompileInputs.cache
+D:\Programming\Algorithms\graphs\Graphs\not connected graphs\obj\Debug\netcoreapp2.1\not connected graphs.AssemblyInfoInputs.cache
+D:\Programming\Algorithms\graphs\Graphs\not connected graphs\obj\Debug\netcoreapp2.1\not connected graphs.AssemblyInfo.cs
+D:\Programming\Algorithms\graphs\Graphs\not connected graphs\obj\Debug\netcoreapp2.1\not connected graphs.dll
+D:\Programming\Algorithms\graphs\Graphs\not connected graphs\obj\Debug\netcoreapp2.1\not connected graphs.pdb
