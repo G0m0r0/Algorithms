@@ -3,7 +3,9 @@ Microsoft Visual Studio Solution File, Format Version 12.00
 # Visual Studio Version 16
 VisualStudioVersion = 16.0.31702.278
 MinimumVisualStudioVersion = 10.0.40219.1
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "a^3+b^3=d^3+c^3", "Cracking the code interview 6th edition- algorithms\a^3+b^3=d^3+c^3.csproj", "{898C7A2A-B8F4-4CAA-99F9-786A8BB943F6}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "a^3+b^3=d^3+c^3", "Cracking the code interview 6th edition- algorithms\a^3+b^3=d^3+c^3.csproj", "{898C7A2A-B8F4-4CAA-99F9-786A8BB943F6}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "strPermutations", "strPermutations\strPermutations.csproj", "{0496D217-38B3-4527-A62E-71510FBCF384}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -15,6 +17,10 @@ Global
 		{898C7A2A-B8F4-4CAA-99F9-786A8BB943F6}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{898C7A2A-B8F4-4CAA-99F9-786A8BB943F6}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{898C7A2A-B8F4-4CAA-99F9-786A8BB943F6}.Release|Any CPU.Build.0 = Release|Any CPU
+		{0496D217-38B3-4527-A62E-71510FBCF384}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{0496D217-38B3-4527-A62E-71510FBCF384}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{0496D217-38B3-4527-A62E-71510FBCF384}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{0496D217-38B3-4527-A62E-71510FBCF384}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE

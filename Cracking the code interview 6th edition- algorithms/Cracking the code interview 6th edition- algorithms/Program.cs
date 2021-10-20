@@ -33,6 +33,8 @@
             }
             st.Stop();            
 
+
+            //my algorithm
             var st2 = new Stopwatch();
             var list2 = new List<string>();
             st2.Start();
