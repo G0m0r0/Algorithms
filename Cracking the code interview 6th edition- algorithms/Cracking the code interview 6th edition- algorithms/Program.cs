@@ -8,7 +8,7 @@
     {
         static void Main()
         {
-            Stopwatch st = new Stopwatch();
+            var st = new Stopwatch();
 
             int n = 100;
 

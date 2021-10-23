@@ -13,7 +13,7 @@ namespace strPermutations
 
             var sCharArr = s.ToCharArray();
 
-            Stopwatch st = new Stopwatch();
+            var st = new Stopwatch();
             st.Start();
             for (int i = 0; i < b.Length-s.Length+1; i++)
             {
