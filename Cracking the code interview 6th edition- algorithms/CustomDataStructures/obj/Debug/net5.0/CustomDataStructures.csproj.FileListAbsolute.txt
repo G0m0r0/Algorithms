@@ -14,3 +14,5 @@ D:\Programming\Algorithms\Cracking the code interview 6th edition- algorithms\Cu
 D:\Programming\Algorithms\Cracking the code interview 6th edition- algorithms\CustomDataStructures\obj\Debug\net5.0\ref\CustomDataStructures.dll
 D:\Programming\Algorithms\Cracking the code interview 6th edition- algorithms\CustomDataStructures\obj\Debug\net5.0\CustomDataStructures.pdb
 D:\Programming\Algorithms\Cracking the code interview 6th edition- algorithms\CustomDataStructures\obj\Debug\net5.0\CustomDataStructures.genruntimeconfig.cache
+D:\Programming\Algorithms\Cracking the code interview 6th edition- algorithms\CustomDataStructures\bin\Debug\net5.0\ICSharpCode.Decompiler.dll
+D:\Programming\Algorithms\Cracking the code interview 6th edition- algorithms\CustomDataStructures\obj\Debug\net5.0\CustomDataStructures.csproj.CopyComplete

@@ -2,11 +2,13 @@
 {
     using System.Collections.Generic;
     using System;
+    using System.Text;
+
     class Program
     {
         static void Main()
         {
-            //try to implement this
+            //try to implement list
             var list = new List<int>();
             list.Remove(1); //returns bool
             list.Add(1);
@@ -60,6 +62,19 @@
             Console.WriteLine(mylist2.Count());
 
             //MyList implimented
+
+
+            //try to impliment StringBuilder
+            var sb = new StringBuilder();
+            sb.Append("text");
+            sb.AppendLine("text");
+            Console.WriteLine(sb.ToString());
+            sb.AppendJoin(" ", 1,2,3,4);
+            sb.Remove(1, 2);
+            sb.Replace("e", "E");
+            Console.WriteLine(sb.ToString());
+            sb.Clear();
+            Console.WriteLine(sb);
         }
     }
 }

@@ -13,3 +13,4 @@ D:\Programming\Algorithms\Cracking the code interview 6th edition- algorithms\st
 D:\Programming\Algorithms\Cracking the code interview 6th edition- algorithms\strPermutations\obj\Debug\net5.0\ref\strPermutations.dll
 D:\Programming\Algorithms\Cracking the code interview 6th edition- algorithms\strPermutations\obj\Debug\net5.0\strPermutations.pdb
 D:\Programming\Algorithms\Cracking the code interview 6th edition- algorithms\strPermutations\obj\Debug\net5.0\strPermutations.genruntimeconfig.cache
+D:\Programming\Algorithms\Cracking the code interview 6th edition- algorithms\strPermutations\obj\Debug\net5.0\strPermutations.csproj.AssemblyReference.cache
