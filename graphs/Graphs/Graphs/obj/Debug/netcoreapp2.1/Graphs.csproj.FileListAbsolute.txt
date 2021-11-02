@@ -11,3 +11,16 @@ D:\Programming\Algorithms\graphs\Graphs\Graphs\obj\Debug\netcoreapp2.1\Graphs.pd
 D:\Programming\Algorithms\graphs\Graphs\Graphs\obj\Debug\netcoreapp2.1\Graphs.csproj.AssemblyReference.cache
 D:\Programming\Algorithms\graphs\Graphs\Graphs\obj\Debug\netcoreapp2.1\Graphs.GeneratedMSBuildEditorConfig.editorconfig
 D:\Programming\Algorithms\graphs\Graphs\Graphs\obj\Debug\netcoreapp2.1\Graphs.genruntimeconfig.cache
+D:\Programming\Algorithms and data structures\Graphs\Graphs\Graphs\bin\Debug\netcoreapp2.1\Graphs.deps.json
+D:\Programming\Algorithms and data structures\Graphs\Graphs\Graphs\bin\Debug\netcoreapp2.1\Graphs.runtimeconfig.json
+D:\Programming\Algorithms and data structures\Graphs\Graphs\Graphs\bin\Debug\netcoreapp2.1\Graphs.runtimeconfig.dev.json
+D:\Programming\Algorithms and data structures\Graphs\Graphs\Graphs\bin\Debug\netcoreapp2.1\Graphs.dll
+D:\Programming\Algorithms and data structures\Graphs\Graphs\Graphs\bin\Debug\netcoreapp2.1\Graphs.pdb
+D:\Programming\Algorithms and data structures\Graphs\Graphs\Graphs\obj\Debug\netcoreapp2.1\Graphs.csproj.AssemblyReference.cache
+D:\Programming\Algorithms and data structures\Graphs\Graphs\Graphs\obj\Debug\netcoreapp2.1\Graphs.GeneratedMSBuildEditorConfig.editorconfig
+D:\Programming\Algorithms and data structures\Graphs\Graphs\Graphs\obj\Debug\netcoreapp2.1\Graphs.AssemblyInfoInputs.cache
+D:\Programming\Algorithms and data structures\Graphs\Graphs\Graphs\obj\Debug\netcoreapp2.1\Graphs.AssemblyInfo.cs
+D:\Programming\Algorithms and data structures\Graphs\Graphs\Graphs\obj\Debug\netcoreapp2.1\Graphs.csproj.CoreCompileInputs.cache
+D:\Programming\Algorithms and data structures\Graphs\Graphs\Graphs\obj\Debug\netcoreapp2.1\Graphs.dll
+D:\Programming\Algorithms and data structures\Graphs\Graphs\Graphs\obj\Debug\netcoreapp2.1\Graphs.pdb
+D:\Programming\Algorithms and data structures\Graphs\Graphs\Graphs\obj\Debug\netcoreapp2.1\Graphs.genruntimeconfig.cache

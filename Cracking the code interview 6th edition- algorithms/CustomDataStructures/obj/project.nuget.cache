@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "GnBCno0PM4w1vPnm/Qc1LXiWckiVYwUU2CqHKENs94XpWmli6vwcqwUAXCfQFEJbYpGJPC+r5GhI/T12LSeftA==",
+  "dgSpecHash": "a49EOAtYm5LBpkDc3au0fgn3zvgXDEkoaxoNFr3lM5QQpvUe0gm6//SiTwIm5o5fScMy3tVGf2LwW+VOP+JmbQ==",
   "success": true,
-  "projectFilePath": "D:\\Programming\\Algorithms\\Cracking the code interview 6th edition- algorithms\\CustomDataStructures\\CustomDataStructures.csproj",
+  "projectFilePath": "D:\\Programming\\Algorithms and data structures\\Cracking the code interview 6th edition- algorithms\\CustomDataStructures\\CustomDataStructures.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\dimit\\.nuget\\packages\\icsharpcode.decompiler\\7.1.0.6543\\icsharpcode.decompiler.7.1.0.6543.nupkg.sha512",
     "C:\\Users\\dimit\\.nuget\\packages\\system.collections.immutable\\5.0.0\\system.collections.immutable.5.0.0.nupkg.sha512",

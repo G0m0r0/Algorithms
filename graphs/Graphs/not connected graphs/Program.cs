@@ -1,8 +1,8 @@
-﻿using System;
-using System.Collections.Generic;
-
-namespace depth_first_search_DFS
+﻿namespace depth_first_search_DFS
 {
+    using System;
+    using System.Collections.Generic;
+
     class Program
     {
         static List<int>[] graph;
@@ -29,7 +29,7 @@ namespace depth_first_search_DFS
                 }
             }
         }
-        static void Main(string[] args)
+        static void Main()
         {
             graph = new List<int>[]
             {

@@ -1,5 +1,6 @@
 ﻿using System;
 using System.Collections.Generic;
+using System.Linq;
 
 namespace topological_sorting
 {
@@ -25,6 +26,31 @@ namespace topological_sorting
 
             var result = new List<int>();
             var nodes = new HashSet<int>();
+
+            var nodeWithIncomingEdges = new HashSet<int>();
+
+            graph.SelectMany(s => s)
+                .ToList()
+                .ForEach(e => nodeWithIncomingEdges.Add(e));
+
+            for (int i = 0; i < graph.Length; i++)
+            {
+                if (!nodeWithIncomingEdges.Contains(i))
+                {
+                    nodes.Add(i);
+                }
+            }
+
+            while (nodes.Count != 0)
+            {
+                var currentNode = nodes.First();
+                nodes.Remove(currentNode);
+
+                result.Add(currentNode);
+
+                var children = graph[currentNode].ToList();
+                graph[currentNode] = new List<int>();
+            }
         }
     }
 }
