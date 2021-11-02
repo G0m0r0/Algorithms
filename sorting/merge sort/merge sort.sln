@@ -1,17 +1,19 @@
 ﻿
 Microsoft Visual Studio Solution File, Format Version 12.00
-# Visual Studio 15
-VisualStudioVersion = 15.0.28307.329
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.31702.278
 MinimumVisualStudioVersion = 10.0.40219.1
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "merge sort", "merge sort\merge sort.csproj", "{083362CB-635F-467C-B9BF-D754B5DFE9E1}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "merge sort", "merge sort\merge sort.csproj", "{083362CB-635F-467C-B9BF-D754B5DFE9E1}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "counting sort", "counting sort\counting sort.csproj", "{187ECA7A-BA14-4424-92AF-A468D1D43BF0}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "counting sort", "counting sort\counting sort.csproj", "{187ECA7A-BA14-4424-92AF-A468D1D43BF0}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "bucket sort", "bocket sort\bucket sort.csproj", "{DB0D36D9-DBDF-4BE1-A71E-48D503EDE120}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "bucket sort", "bocket sort\bucket sort.csproj", "{DB0D36D9-DBDF-4BE1-A71E-48D503EDE120}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "heap sort", "heap sort\heap sort.csproj", "{BCCA3764-AFBF-4AE2-B053-ABC033752B86}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "heap sort", "heap sort\heap sort.csproj", "{BCCA3764-AFBF-4AE2-B053-ABC033752B86}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "bogosort", "bogosort\bogosort.csproj", "{07DA8659-76A4-47E5-8606-1E21C06F4EA4}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "bogosort", "bogosort\bogosort.csproj", "{07DA8659-76A4-47E5-8606-1E21C06F4EA4}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Sorting", "Selection sort\Sorting.csproj", "{5D84DB7B-EC71-4637-B013-5F72023597FF}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -39,6 +41,10 @@ Global
 		{07DA8659-76A4-47E5-8606-1E21C06F4EA4}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{07DA8659-76A4-47E5-8606-1E21C06F4EA4}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{07DA8659-76A4-47E5-8606-1E21C06F4EA4}.Release|Any CPU.Build.0 = Release|Any CPU
+		{5D84DB7B-EC71-4637-B013-5F72023597FF}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{5D84DB7B-EC71-4637-B013-5F72023597FF}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{5D84DB7B-EC71-4637-B013-5F72023597FF}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{5D84DB7B-EC71-4637-B013-5F72023597FF}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE

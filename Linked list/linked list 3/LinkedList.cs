@@ -73,17 +73,14 @@ namespace linked_list_3
 
             if (head != null && position == 0)
             {
-                node.next = this.head;
-                this.head = node;
+                this.AddFirst(data);
                 return;
             }
 
             var current = this.head;
             Node<T> previous = null;
 
-            int i = 0;
-
-            while (i < position)
+            for (int i = 0; i < position-1; i++)
             {
                 previous = current;
                 current = current.next;
@@ -92,12 +89,15 @@ namespace linked_list_3
                 {
                     break;
                 }
-
-                i++;
-            }
+            }               
 
             node.next = current;
             previous.next = node;
+        }
+
+        public void RemoveAt(int position)
+        {
+            
         }
     }
 }

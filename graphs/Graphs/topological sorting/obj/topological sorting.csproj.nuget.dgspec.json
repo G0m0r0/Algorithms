@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "D:\\Programming\\Algorithms\\graphs\\Graphs\\topological sorting\\topological sorting.csproj": {}
+    "D:\\Programming\\Algorithms and data structures\\Graphs\\Graphs\\topological sorting\\topological sorting.csproj": {}
   },
   "projects": {
-    "D:\\Programming\\Algorithms\\graphs\\Graphs\\topological sorting\\topological sorting.csproj": {
+    "D:\\Programming\\Algorithms and data structures\\Graphs\\Graphs\\topological sorting\\topological sorting.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "D:\\Programming\\Algorithms\\graphs\\Graphs\\topological sorting\\topological sorting.csproj",
+        "projectUniqueName": "D:\\Programming\\Algorithms and data structures\\Graphs\\Graphs\\topological sorting\\topological sorting.csproj",
         "projectName": "topological sorting",
-        "projectPath": "D:\\Programming\\Algorithms\\graphs\\Graphs\\topological sorting\\topological sorting.csproj",
+        "projectPath": "D:\\Programming\\Algorithms and data structures\\Graphs\\Graphs\\topological sorting\\topological sorting.csproj",
         "packagesPath": "C:\\Users\\dimit\\.nuget\\packages\\",
-        "outputPath": "D:\\Programming\\Algorithms\\graphs\\Graphs\\topological sorting\\obj\\",
+        "outputPath": "D:\\Programming\\Algorithms and data structures\\Graphs\\Graphs\\topological sorting\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages",
