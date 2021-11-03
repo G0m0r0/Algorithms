@@ -1,18 +1,19 @@
 ﻿namespace CustomDataStructures
 {
+    using CustomDataStructures.Contracts;
     using System;
     using System.Collections;
     using System.Collections.Generic;
 
-    public class MyList<T> :IEnumerable<T>
+    public class MyList<T> :IEnumerable<T>, IMyList<T>
     {
         private T[] arr;
         private int head;
-        private readonly int rateOfResizing = 2;
-        private readonly int initialSize = 4;
+        private const int PowOfResizing = 2;
+        private const int InitialSize = 4;
         public MyList()
         {
-            arr = new T[initialSize];
+            arr = new T[InitialSize];
             head = -1;
         }
 
@@ -80,56 +81,62 @@
             return false;
         }
 
-        public int Count()
-        {
-            return head + 1;
-        }
+        public int Count => head + 1;
 
         public T this[int index]
         {
             get
             {
-                if (index < 0 || index > head)
-                {
-                    throw new ArgumentOutOfRangeException("Index error");
-                }
+                CheckIndexWithinRange(index);
 
                 return arr[index];
             }
             set
             {
-                if (index < 0 || index > head)
-                {
-                    throw new ArgumentOutOfRangeException("Index error");
-                }
+                CheckIndexWithinRange(index);
 
                 arr[index] = value;
             }
         }
 
+        private void CheckIndexWithinRange(int index)
+        {
+            if (index < 0 || index > head)
+            {
+                throw new ArgumentOutOfRangeException();
+            }
+        }
+
         private void ResizeArrUp()
         {
-            Array.Resize(ref arr, arr.Length * rateOfResizing);
+            Array.Resize(ref arr, arr.Length * PowOfResizing);
+            //or create new arr and copy the elements
         }
         private void ResizeArrDown()
         {
-            if (head <= initialSize)
+            if (head <= InitialSize)
             {
-                Array.Resize(ref arr, initialSize);
+                Array.Resize(ref arr, InitialSize);
             }
             else
             {
                 Array.Resize(ref arr, head);
             }
         }
-        private void RemoveAt(int index)
+        public T RemoveAt(int index)
         {
+            CheckIndexWithinRange(index);
+
+            var elementToRemove = arr[index];
+
             for (int a = index; a < head; a++)
             {
                 arr[a] = arr[a + 1];
             }
 
             head--;
+
+            return elementToRemove;
         }
 
         public IEnumerator<T> GetEnumerator()

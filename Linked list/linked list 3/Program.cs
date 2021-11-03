@@ -12,7 +12,7 @@ namespace linked_list_3
             myList1.AddFirst("Hello");
             myList1.AddFirst("Magical");
             myList1.AddFirst("World");
-            Console.WriteLine(myList1.PrintAllNodes());
+            Console.WriteLine(myList1.Print());
 
             Console.WriteLine();
 
@@ -22,7 +22,7 @@ namespace linked_list_3
             myList2.AddLast("Hello");
             myList2.AddLast("Magical");
             myList2.AddLast("World");
-            Console.WriteLine(myList2.PrintAllNodes());
+            Console.WriteLine(myList2.Print());
 
        
             var myList3 = new LinkedList<int>();
@@ -35,16 +35,22 @@ namespace linked_list_3
             }
 
             Console.WriteLine("\nAdd Last numbers:");
-            Console.WriteLine(myList3.PrintAllNodes());
+            Console.WriteLine(myList3.Print());
 
             Console.WriteLine("\nAdd First numbers:");
-            Console.WriteLine(myList4.PrintAllNodes());
+            Console.WriteLine(myList4.Print());
 
-            myList3.InsertAtPossition(100, 2);
-            myList3.InsertAtPossition(50, 5);
+            myList3.InsertAt(100, 2);
+            myList3.InsertAt(50, 5);
 
             Console.WriteLine();
-            Console.WriteLine(myList3.PrintAllNodes()); 
+            Console.WriteLine(myList3.Print());
+
+            Console.WriteLine("Remove first:"+myList3.RemoveFirst());
+            Console.WriteLine(myList3.Print());
+
+            Console.WriteLine("Remove last:" + myList3.RemoveLast());
+            Console.WriteLine(myList3.Print());
         }
     }
 }

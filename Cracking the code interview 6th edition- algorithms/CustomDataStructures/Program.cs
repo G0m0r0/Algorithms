@@ -3,6 +3,7 @@
     using System.Collections.Generic;
     using System;
     using System.Text;
+    using CustomDataStructures.Contracts;
 
     class Program
     {
@@ -27,12 +28,14 @@
 
 
             //my list
-            var myList = new MyList<int>();
-            myList.Add(5);
-            myList.Add(1);
-            myList.Add(2);
-            myList.Add(3);
-            myList.Add(4);
+            var myList = new MyList<int>
+            {
+                5,
+                1,
+                2,
+                3,
+                4
+            };
 
             Console.WriteLine(myList.Remove(5));
             Console.WriteLine(myList.Remove(10));
@@ -59,8 +62,10 @@
 
             Console.WriteLine(string.Join(" ",mylist2));
 
-            Console.WriteLine(mylist2.Count());
-
+            Console.WriteLine(mylist2.Count);
+            var removedElement=mylist2.RemoveAt(1);
+            Console.WriteLine(removedElement);
+            Console.WriteLine(string.Join(" ", mylist2));
             //MyList implimented
 
 

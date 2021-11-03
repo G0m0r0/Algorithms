@@ -1,9 +1,10 @@
-﻿using System;
-using System.Text;
-
-namespace linked_list_3
+﻿namespace linked_list_3
 {
-    public class LinkedList<T>
+    using linked_list_3.Contracts;
+    using System.Text;
+    using System;
+
+    public class LinkedList<T> : ILinkedList<T>
     {
         private Node<T> head;
         public LinkedList()
@@ -11,18 +12,7 @@ namespace linked_list_3
             head = null;
         }
 
-        public string PrintAllNodes()
-        {
-            var sb = new StringBuilder();
-            var current = head;
-            while (current != null)
-            {
-                sb.AppendLine(current.data.ToString());
-                current = current.next;
-            }
-
-            return sb.ToString().TrimEnd();
-        }
+        private static Node<T> CreateNode(T data) => new(data);
 
         public void AddFirst(T data)
         {
@@ -52,9 +42,12 @@ namespace linked_list_3
             }
         }
 
-        private static Node<T> CreateNode(T data) => new(data);
+        public void ForEach()
+        {
+            throw new System.NotImplementedException();
+        }
 
-        public void InsertAtPossition(T data, int position)
+        public void InsertAt(T data, int position)
         {
             var node = CreateNode(data);
 
@@ -80,7 +73,7 @@ namespace linked_list_3
             var current = this.head;
             Node<T> previous = null;
 
-            for (int i = 0; i < position-1; i++)
+            for (int i = 0; i < position - 1; i++)
             {
                 previous = current;
                 current = current.next;
@@ -89,15 +82,67 @@ namespace linked_list_3
                 {
                     break;
                 }
-            }               
+            }
 
             node.next = current;
             previous.next = node;
         }
 
+        public string Print()
+        {
+            var sb = new StringBuilder();
+            var current = head;
+            while (current != null)
+            {
+                sb.AppendLine(current.data.ToString());
+                current = current.next;
+            }
+
+            return sb.ToString().TrimEnd();
+        }
+
         public void RemoveAt(int position)
         {
-            
+            throw new System.NotImplementedException();
+        }
+
+        public T RemoveFirst()
+        {
+            if (head == null)
+            {
+                throw new NullReferenceException();
+            }
+
+            var dataToRemove = head.data;
+            head = head.next;
+
+            return dataToRemove;
+        }
+
+        public T RemoveLast()
+        {
+            var current = head;
+            T data = default(T);
+
+            while (current.next != null)
+            {
+                if (current.next.next == null)
+                {
+                    data = current.next.data;
+                    head = current.next;
+                }
+
+                current = current.next;
+            }
+
+            //TODO: remove it from colletion
+
+            return data;
+        }
+
+        public T[] ToArray()
+        {
+            throw new System.NotImplementedException();
         }
     }
 }
