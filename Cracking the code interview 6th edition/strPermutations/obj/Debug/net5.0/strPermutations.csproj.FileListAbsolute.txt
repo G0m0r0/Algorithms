@@ -1,0 +1,16 @@
+D:\Programming\Algorithms and data structures\Cracking the code interview 6th edition\strPermutations\bin\Debug\net5.0\strPermutations.exe
+D:\Programming\Algorithms and data structures\Cracking the code interview 6th edition\strPermutations\bin\Debug\net5.0\strPermutations.deps.json
+D:\Programming\Algorithms and data structures\Cracking the code interview 6th edition\strPermutations\bin\Debug\net5.0\strPermutations.runtimeconfig.json
+D:\Programming\Algorithms and data structures\Cracking the code interview 6th edition\strPermutations\bin\Debug\net5.0\strPermutations.runtimeconfig.dev.json
+D:\Programming\Algorithms and data structures\Cracking the code interview 6th edition\strPermutations\bin\Debug\net5.0\strPermutations.dll
+D:\Programming\Algorithms and data structures\Cracking the code interview 6th edition\strPermutations\bin\Debug\net5.0\ref\strPermutations.dll
+D:\Programming\Algorithms and data structures\Cracking the code interview 6th edition\strPermutations\bin\Debug\net5.0\strPermutations.pdb
+D:\Programming\Algorithms and data structures\Cracking the code interview 6th edition\strPermutations\obj\Debug\net5.0\strPermutations.csproj.AssemblyReference.cache
+D:\Programming\Algorithms and data structures\Cracking the code interview 6th edition\strPermutations\obj\Debug\net5.0\strPermutations.GeneratedMSBuildEditorConfig.editorconfig
+D:\Programming\Algorithms and data structures\Cracking the code interview 6th edition\strPermutations\obj\Debug\net5.0\strPermutations.AssemblyInfoInputs.cache
+D:\Programming\Algorithms and data structures\Cracking the code interview 6th edition\strPermutations\obj\Debug\net5.0\strPermutations.AssemblyInfo.cs
+D:\Programming\Algorithms and data structures\Cracking the code interview 6th edition\strPermutations\obj\Debug\net5.0\strPermutations.csproj.CoreCompileInputs.cache
+D:\Programming\Algorithms and data structures\Cracking the code interview 6th edition\strPermutations\obj\Debug\net5.0\strPermutations.dll
+D:\Programming\Algorithms and data structures\Cracking the code interview 6th edition\strPermutations\obj\Debug\net5.0\ref\strPermutations.dll
+D:\Programming\Algorithms and data structures\Cracking the code interview 6th edition\strPermutations\obj\Debug\net5.0\strPermutations.pdb
+D:\Programming\Algorithms and data structures\Cracking the code interview 6th edition\strPermutations\obj\Debug\net5.0\strPermutations.genruntimeconfig.cache
