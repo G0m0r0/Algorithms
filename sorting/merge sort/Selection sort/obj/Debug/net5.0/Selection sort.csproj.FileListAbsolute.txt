@@ -1,0 +1,16 @@
+D:\Programming\Algorithms and data structures\Sorting\merge sort\Selection sort\bin\Debug\net5.0\Selection sort.exe
+D:\Programming\Algorithms and data structures\Sorting\merge sort\Selection sort\bin\Debug\net5.0\Selection sort.deps.json
+D:\Programming\Algorithms and data structures\Sorting\merge sort\Selection sort\bin\Debug\net5.0\Selection sort.runtimeconfig.json
+D:\Programming\Algorithms and data structures\Sorting\merge sort\Selection sort\bin\Debug\net5.0\Selection sort.runtimeconfig.dev.json
+D:\Programming\Algorithms and data structures\Sorting\merge sort\Selection sort\bin\Debug\net5.0\Selection sort.dll
+D:\Programming\Algorithms and data structures\Sorting\merge sort\Selection sort\bin\Debug\net5.0\ref\Selection sort.dll
+D:\Programming\Algorithms and data structures\Sorting\merge sort\Selection sort\bin\Debug\net5.0\Selection sort.pdb
+D:\Programming\Algorithms and data structures\Sorting\merge sort\Selection sort\obj\Debug\net5.0\Selection sort.csproj.AssemblyReference.cache
+D:\Programming\Algorithms and data structures\Sorting\merge sort\Selection sort\obj\Debug\net5.0\Selection sort.GeneratedMSBuildEditorConfig.editorconfig
+D:\Programming\Algorithms and data structures\Sorting\merge sort\Selection sort\obj\Debug\net5.0\Selection sort.AssemblyInfoInputs.cache
+D:\Programming\Algorithms and data structures\Sorting\merge sort\Selection sort\obj\Debug\net5.0\Selection sort.AssemblyInfo.cs
+D:\Programming\Algorithms and data structures\Sorting\merge sort\Selection sort\obj\Debug\net5.0\Selection sort.csproj.CoreCompileInputs.cache
+D:\Programming\Algorithms and data structures\Sorting\merge sort\Selection sort\obj\Debug\net5.0\Selection sort.dll
+D:\Programming\Algorithms and data structures\Sorting\merge sort\Selection sort\obj\Debug\net5.0\ref\Selection sort.dll
+D:\Programming\Algorithms and data structures\Sorting\merge sort\Selection sort\obj\Debug\net5.0\Selection sort.pdb
+D:\Programming\Algorithms and data structures\Sorting\merge sort\Selection sort\obj\Debug\net5.0\Selection sort.genruntimeconfig.cache

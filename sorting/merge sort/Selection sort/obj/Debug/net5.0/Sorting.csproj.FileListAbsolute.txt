@@ -1,0 +1,16 @@
+D:\Programming\Algorithms and data structures\Sorting\merge sort\Selection sort\bin\Debug\net5.0\Sorting.exe
+D:\Programming\Algorithms and data structures\Sorting\merge sort\Selection sort\bin\Debug\net5.0\Sorting.deps.json
+D:\Programming\Algorithms and data structures\Sorting\merge sort\Selection sort\bin\Debug\net5.0\Sorting.runtimeconfig.json
+D:\Programming\Algorithms and data structures\Sorting\merge sort\Selection sort\bin\Debug\net5.0\Sorting.runtimeconfig.dev.json
+D:\Programming\Algorithms and data structures\Sorting\merge sort\Selection sort\bin\Debug\net5.0\Sorting.dll
+D:\Programming\Algorithms and data structures\Sorting\merge sort\Selection sort\bin\Debug\net5.0\ref\Sorting.dll
+D:\Programming\Algorithms and data structures\Sorting\merge sort\Selection sort\bin\Debug\net5.0\Sorting.pdb
+D:\Programming\Algorithms and data structures\Sorting\merge sort\Selection sort\obj\Debug\net5.0\Sorting.csproj.AssemblyReference.cache
+D:\Programming\Algorithms and data structures\Sorting\merge sort\Selection sort\obj\Debug\net5.0\Sorting.GeneratedMSBuildEditorConfig.editorconfig
+D:\Programming\Algorithms and data structures\Sorting\merge sort\Selection sort\obj\Debug\net5.0\Sorting.AssemblyInfoInputs.cache
+D:\Programming\Algorithms and data structures\Sorting\merge sort\Selection sort\obj\Debug\net5.0\Sorting.AssemblyInfo.cs
+D:\Programming\Algorithms and data structures\Sorting\merge sort\Selection sort\obj\Debug\net5.0\Sorting.csproj.CoreCompileInputs.cache
+D:\Programming\Algorithms and data structures\Sorting\merge sort\Selection sort\obj\Debug\net5.0\Sorting.dll
+D:\Programming\Algorithms and data structures\Sorting\merge sort\Selection sort\obj\Debug\net5.0\ref\Sorting.dll
+D:\Programming\Algorithms and data structures\Sorting\merge sort\Selection sort\obj\Debug\net5.0\Sorting.pdb
+D:\Programming\Algorithms and data structures\Sorting\merge sort\Selection sort\obj\Debug\net5.0\Sorting.genruntimeconfig.cache
