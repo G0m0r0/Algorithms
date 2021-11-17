@@ -1,0 +1,16 @@
+D:\Programming\Algorithms and data structures\Cracking the code interview 6th edition\CommonNumbersInSortedArrays\bin\Debug\net5.0\CommonNumbersInSortedArrays.exe
+D:\Programming\Algorithms and data structures\Cracking the code interview 6th edition\CommonNumbersInSortedArrays\bin\Debug\net5.0\CommonNumbersInSortedArrays.deps.json
+D:\Programming\Algorithms and data structures\Cracking the code interview 6th edition\CommonNumbersInSortedArrays\bin\Debug\net5.0\CommonNumbersInSortedArrays.runtimeconfig.json
+D:\Programming\Algorithms and data structures\Cracking the code interview 6th edition\CommonNumbersInSortedArrays\bin\Debug\net5.0\CommonNumbersInSortedArrays.runtimeconfig.dev.json
+D:\Programming\Algorithms and data structures\Cracking the code interview 6th edition\CommonNumbersInSortedArrays\bin\Debug\net5.0\CommonNumbersInSortedArrays.dll
+D:\Programming\Algorithms and data structures\Cracking the code interview 6th edition\CommonNumbersInSortedArrays\bin\Debug\net5.0\ref\CommonNumbersInSortedArrays.dll
+D:\Programming\Algorithms and data structures\Cracking the code interview 6th edition\CommonNumbersInSortedArrays\bin\Debug\net5.0\CommonNumbersInSortedArrays.pdb
+D:\Programming\Algorithms and data structures\Cracking the code interview 6th edition\CommonNumbersInSortedArrays\obj\Debug\net5.0\CommonNumbersInSortedArrays.csproj.AssemblyReference.cache
+D:\Programming\Algorithms and data structures\Cracking the code interview 6th edition\CommonNumbersInSortedArrays\obj\Debug\net5.0\CommonNumbersInSortedArrays.GeneratedMSBuildEditorConfig.editorconfig
+D:\Programming\Algorithms and data structures\Cracking the code interview 6th edition\CommonNumbersInSortedArrays\obj\Debug\net5.0\CommonNumbersInSortedArrays.AssemblyInfoInputs.cache
+D:\Programming\Algorithms and data structures\Cracking the code interview 6th edition\CommonNumbersInSortedArrays\obj\Debug\net5.0\CommonNumbersInSortedArrays.AssemblyInfo.cs
+D:\Programming\Algorithms and data structures\Cracking the code interview 6th edition\CommonNumbersInSortedArrays\obj\Debug\net5.0\CommonNumbersInSortedArrays.csproj.CoreCompileInputs.cache
+D:\Programming\Algorithms and data structures\Cracking the code interview 6th edition\CommonNumbersInSortedArrays\obj\Debug\net5.0\CommonNumbersInSortedArrays.dll
+D:\Programming\Algorithms and data structures\Cracking the code interview 6th edition\CommonNumbersInSortedArrays\obj\Debug\net5.0\ref\CommonNumbersInSortedArrays.dll
+D:\Programming\Algorithms and data structures\Cracking the code interview 6th edition\CommonNumbersInSortedArrays\obj\Debug\net5.0\CommonNumbersInSortedArrays.pdb
+D:\Programming\Algorithms and data structures\Cracking the code interview 6th edition\CommonNumbersInSortedArrays\obj\Debug\net5.0\CommonNumbersInSortedArrays.genruntimeconfig.cache
