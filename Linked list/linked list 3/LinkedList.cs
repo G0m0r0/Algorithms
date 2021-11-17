@@ -103,7 +103,23 @@
 
         public void RemoveAt(int position)
         {
-            throw new System.NotImplementedException();
+            var current = head;
+            Node<T> previous = null;
+            int index = 0;
+
+            while (current.next==null)
+            {
+                previous = current;
+                current = current.next;
+                if(position-1==index)
+                {
+
+                }
+
+                index++;
+            }
+
+
         }
 
         public T RemoveFirst()

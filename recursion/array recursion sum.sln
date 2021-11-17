@@ -1,7 +1,7 @@
 ﻿
 Microsoft Visual Studio Solution File, Format Version 12.00
-# Visual Studio 15
-VisualStudioVersion = 15.0.28307.329
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.31702.278
 MinimumVisualStudioVersion = 10.0.40219.1
 Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "array recursion sum", "array recursion sum\array recursion sum.csproj", "{FBF1D475-C43A-41A0-B1FC-6A1B39D593D1}"
 EndProject
@@ -19,7 +19,9 @@ Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "generating combinations", "
 EndProject
 Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "8 Queens Puzzle", "8 Queens Puzzle\8 Queens Puzzle.csproj", "{268BFDFC-34F6-4FB3-A214-638102EF9844}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "paths in labyrinth", "paths in labyrinth\paths in labyrinth.csproj", "{433D9D36-EFD0-47A9-92FC-494B6A1C75B8}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "paths in labyrinth", "paths in labyrinth\paths in labyrinth.csproj", "{433D9D36-EFD0-47A9-92FC-494B6A1C75B8}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ArrayPermutations", "ArrayPermutations\ArrayPermutations.csproj", "{59364CD9-E2FC-4182-BBB9-4BA4CC84C0AC}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -63,6 +65,10 @@ Global
 		{433D9D36-EFD0-47A9-92FC-494B6A1C75B8}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{433D9D36-EFD0-47A9-92FC-494B6A1C75B8}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{433D9D36-EFD0-47A9-92FC-494B6A1C75B8}.Release|Any CPU.Build.0 = Release|Any CPU
+		{59364CD9-E2FC-4182-BBB9-4BA4CC84C0AC}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{59364CD9-E2FC-4182-BBB9-4BA4CC84C0AC}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{59364CD9-E2FC-4182-BBB9-4BA4CC84C0AC}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{59364CD9-E2FC-4182-BBB9-4BA4CC84C0AC}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE

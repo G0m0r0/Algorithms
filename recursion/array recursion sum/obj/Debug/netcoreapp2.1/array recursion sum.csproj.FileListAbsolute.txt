@@ -9,3 +9,16 @@ D:\coding\Algoritahms\array recursion sum\array recursion sum\obj\Debug\netcorea
 D:\coding\Algoritahms\array recursion sum\array recursion sum\obj\Debug\netcoreapp2.1\array recursion sum.AssemblyInfo.cs
 D:\coding\Algoritahms\array recursion sum\array recursion sum\obj\Debug\netcoreapp2.1\array recursion sum.dll
 D:\coding\Algoritahms\array recursion sum\array recursion sum\obj\Debug\netcoreapp2.1\array recursion sum.pdb
+D:\Programming\Algorithms and data structures\Recursion\array recursion sum\bin\Debug\netcoreapp2.1\array recursion sum.deps.json
+D:\Programming\Algorithms and data structures\Recursion\array recursion sum\bin\Debug\netcoreapp2.1\array recursion sum.runtimeconfig.json
+D:\Programming\Algorithms and data structures\Recursion\array recursion sum\bin\Debug\netcoreapp2.1\array recursion sum.runtimeconfig.dev.json
+D:\Programming\Algorithms and data structures\Recursion\array recursion sum\bin\Debug\netcoreapp2.1\array recursion sum.dll
+D:\Programming\Algorithms and data structures\Recursion\array recursion sum\bin\Debug\netcoreapp2.1\array recursion sum.pdb
+D:\Programming\Algorithms and data structures\Recursion\array recursion sum\obj\Debug\netcoreapp2.1\array recursion sum.csproj.AssemblyReference.cache
+D:\Programming\Algorithms and data structures\Recursion\array recursion sum\obj\Debug\netcoreapp2.1\array recursion sum.GeneratedMSBuildEditorConfig.editorconfig
+D:\Programming\Algorithms and data structures\Recursion\array recursion sum\obj\Debug\netcoreapp2.1\array recursion sum.AssemblyInfoInputs.cache
+D:\Programming\Algorithms and data structures\Recursion\array recursion sum\obj\Debug\netcoreapp2.1\array recursion sum.AssemblyInfo.cs
+D:\Programming\Algorithms and data structures\Recursion\array recursion sum\obj\Debug\netcoreapp2.1\array recursion sum.csproj.CoreCompileInputs.cache
+D:\Programming\Algorithms and data structures\Recursion\array recursion sum\obj\Debug\netcoreapp2.1\array recursion sum.dll
+D:\Programming\Algorithms and data structures\Recursion\array recursion sum\obj\Debug\netcoreapp2.1\array recursion sum.pdb
+D:\Programming\Algorithms and data structures\Recursion\array recursion sum\obj\Debug\netcoreapp2.1\array recursion sum.genruntimeconfig.cache
