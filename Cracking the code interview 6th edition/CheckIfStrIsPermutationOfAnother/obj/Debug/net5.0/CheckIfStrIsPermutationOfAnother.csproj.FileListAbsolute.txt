@@ -1,0 +1,15 @@
+D:\Programming\Algorithms and data structures\Cracking the code interview 6th edition\CheckIfStrIsPermutationOfAnother\bin\Debug\net5.0\CheckIfStrIsPermutationOfAnother.exe
+D:\Programming\Algorithms and data structures\Cracking the code interview 6th edition\CheckIfStrIsPermutationOfAnother\bin\Debug\net5.0\CheckIfStrIsPermutationOfAnother.deps.json
+D:\Programming\Algorithms and data structures\Cracking the code interview 6th edition\CheckIfStrIsPermutationOfAnother\bin\Debug\net5.0\CheckIfStrIsPermutationOfAnother.runtimeconfig.json
+D:\Programming\Algorithms and data structures\Cracking the code interview 6th edition\CheckIfStrIsPermutationOfAnother\bin\Debug\net5.0\CheckIfStrIsPermutationOfAnother.runtimeconfig.dev.json
+D:\Programming\Algorithms and data structures\Cracking the code interview 6th edition\CheckIfStrIsPermutationOfAnother\bin\Debug\net5.0\CheckIfStrIsPermutationOfAnother.dll
+D:\Programming\Algorithms and data structures\Cracking the code interview 6th edition\CheckIfStrIsPermutationOfAnother\bin\Debug\net5.0\ref\CheckIfStrIsPermutationOfAnother.dll
+D:\Programming\Algorithms and data structures\Cracking the code interview 6th edition\CheckIfStrIsPermutationOfAnother\bin\Debug\net5.0\CheckIfStrIsPermutationOfAnother.pdb
+D:\Programming\Algorithms and data structures\Cracking the code interview 6th edition\CheckIfStrIsPermutationOfAnother\obj\Debug\net5.0\CheckIfStrIsPermutationOfAnother.GeneratedMSBuildEditorConfig.editorconfig
+D:\Programming\Algorithms and data structures\Cracking the code interview 6th edition\CheckIfStrIsPermutationOfAnother\obj\Debug\net5.0\CheckIfStrIsPermutationOfAnother.AssemblyInfoInputs.cache
+D:\Programming\Algorithms and data structures\Cracking the code interview 6th edition\CheckIfStrIsPermutationOfAnother\obj\Debug\net5.0\CheckIfStrIsPermutationOfAnother.AssemblyInfo.cs
+D:\Programming\Algorithms and data structures\Cracking the code interview 6th edition\CheckIfStrIsPermutationOfAnother\obj\Debug\net5.0\CheckIfStrIsPermutationOfAnother.csproj.CoreCompileInputs.cache
+D:\Programming\Algorithms and data structures\Cracking the code interview 6th edition\CheckIfStrIsPermutationOfAnother\obj\Debug\net5.0\CheckIfStrIsPermutationOfAnother.dll
+D:\Programming\Algorithms and data structures\Cracking the code interview 6th edition\CheckIfStrIsPermutationOfAnother\obj\Debug\net5.0\ref\CheckIfStrIsPermutationOfAnother.dll
+D:\Programming\Algorithms and data structures\Cracking the code interview 6th edition\CheckIfStrIsPermutationOfAnother\obj\Debug\net5.0\CheckIfStrIsPermutationOfAnother.pdb
+D:\Programming\Algorithms and data structures\Cracking the code interview 6th edition\CheckIfStrIsPermutationOfAnother\obj\Debug\net5.0\CheckIfStrIsPermutationOfAnother.genruntimeconfig.cache
