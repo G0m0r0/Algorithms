@@ -37,6 +37,11 @@ namespace Sorting
             QuickSort.SortAscending(array, 0, array.Length - 1);
 
             Console.WriteLine(string.Join(" ", array));
+
+            int[] arr = { 12, 11, 13, 5, 6 };
+
+            Console.WriteLine(InsertionSort.SortAscending(arr));
+            Console.WriteLine(string.Join(" ",arr));
         }
     }
 }

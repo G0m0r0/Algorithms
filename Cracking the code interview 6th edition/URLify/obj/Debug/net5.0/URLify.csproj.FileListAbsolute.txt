@@ -1,0 +1,15 @@
+D:\Programming\Algorithms and data structures\Cracking the code interview 6th edition\URLify\bin\Debug\net5.0\URLify.exe
+D:\Programming\Algorithms and data structures\Cracking the code interview 6th edition\URLify\bin\Debug\net5.0\URLify.deps.json
+D:\Programming\Algorithms and data structures\Cracking the code interview 6th edition\URLify\bin\Debug\net5.0\URLify.runtimeconfig.json
+D:\Programming\Algorithms and data structures\Cracking the code interview 6th edition\URLify\bin\Debug\net5.0\URLify.runtimeconfig.dev.json
+D:\Programming\Algorithms and data structures\Cracking the code interview 6th edition\URLify\bin\Debug\net5.0\URLify.dll
+D:\Programming\Algorithms and data structures\Cracking the code interview 6th edition\URLify\bin\Debug\net5.0\ref\URLify.dll
+D:\Programming\Algorithms and data structures\Cracking the code interview 6th edition\URLify\bin\Debug\net5.0\URLify.pdb
+D:\Programming\Algorithms and data structures\Cracking the code interview 6th edition\URLify\obj\Debug\net5.0\URLify.GeneratedMSBuildEditorConfig.editorconfig
+D:\Programming\Algorithms and data structures\Cracking the code interview 6th edition\URLify\obj\Debug\net5.0\URLify.AssemblyInfoInputs.cache
+D:\Programming\Algorithms and data structures\Cracking the code interview 6th edition\URLify\obj\Debug\net5.0\URLify.AssemblyInfo.cs
+D:\Programming\Algorithms and data structures\Cracking the code interview 6th edition\URLify\obj\Debug\net5.0\URLify.csproj.CoreCompileInputs.cache
+D:\Programming\Algorithms and data structures\Cracking the code interview 6th edition\URLify\obj\Debug\net5.0\URLify.dll
+D:\Programming\Algorithms and data structures\Cracking the code interview 6th edition\URLify\obj\Debug\net5.0\ref\URLify.dll
+D:\Programming\Algorithms and data structures\Cracking the code interview 6th edition\URLify\obj\Debug\net5.0\URLify.pdb
+D:\Programming\Algorithms and data structures\Cracking the code interview 6th edition\URLify\obj\Debug\net5.0\URLify.genruntimeconfig.cache

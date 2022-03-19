@@ -1,0 +1,16 @@
+D:\Programming\Algorithms and data structures\Cracking the code interview 6th edition\One Away\bin\Debug\net5.0\One Away.exe
+D:\Programming\Algorithms and data structures\Cracking the code interview 6th edition\One Away\bin\Debug\net5.0\One Away.deps.json
+D:\Programming\Algorithms and data structures\Cracking the code interview 6th edition\One Away\bin\Debug\net5.0\One Away.runtimeconfig.json
+D:\Programming\Algorithms and data structures\Cracking the code interview 6th edition\One Away\bin\Debug\net5.0\One Away.runtimeconfig.dev.json
+D:\Programming\Algorithms and data structures\Cracking the code interview 6th edition\One Away\bin\Debug\net5.0\One Away.dll
+D:\Programming\Algorithms and data structures\Cracking the code interview 6th edition\One Away\bin\Debug\net5.0\ref\One Away.dll
+D:\Programming\Algorithms and data structures\Cracking the code interview 6th edition\One Away\bin\Debug\net5.0\One Away.pdb
+D:\Programming\Algorithms and data structures\Cracking the code interview 6th edition\One Away\obj\Debug\net5.0\One Away.csproj.AssemblyReference.cache
+D:\Programming\Algorithms and data structures\Cracking the code interview 6th edition\One Away\obj\Debug\net5.0\One Away.GeneratedMSBuildEditorConfig.editorconfig
+D:\Programming\Algorithms and data structures\Cracking the code interview 6th edition\One Away\obj\Debug\net5.0\One Away.AssemblyInfoInputs.cache
+D:\Programming\Algorithms and data structures\Cracking the code interview 6th edition\One Away\obj\Debug\net5.0\One Away.AssemblyInfo.cs
+D:\Programming\Algorithms and data structures\Cracking the code interview 6th edition\One Away\obj\Debug\net5.0\One Away.csproj.CoreCompileInputs.cache
+D:\Programming\Algorithms and data structures\Cracking the code interview 6th edition\One Away\obj\Debug\net5.0\One Away.dll
+D:\Programming\Algorithms and data structures\Cracking the code interview 6th edition\One Away\obj\Debug\net5.0\ref\One Away.dll
+D:\Programming\Algorithms and data structures\Cracking the code interview 6th edition\One Away\obj\Debug\net5.0\One Away.pdb
+D:\Programming\Algorithms and data structures\Cracking the code interview 6th edition\One Away\obj\Debug\net5.0\One Away.genruntimeconfig.cache
