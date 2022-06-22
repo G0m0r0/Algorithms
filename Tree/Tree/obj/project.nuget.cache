@@ -1,8 +1,13 @@
 {
   "version": 2,
-  "dgSpecHash": "5VJQA4cPpZuHua138UOTK0OelGzW2k6uNOFcIh+lRr9GIHSXLPCl2hdh1OlyeHrplx67Cco8/KVd9hIh2NgR/g==",
+  "dgSpecHash": "Uxbr9LOMANL0hyiWvZyfoeaYv/LMBr82biMxMYpXrOQ3amxD94BoPwIGYkkLEOsyibQgbT2fmhJbw4JyOHcSSg==",
   "success": true,
   "projectFilePath": "D:\\Programming\\Algorithms and data structures\\Tree\\Tree\\Tree.csproj",
-  "expectedPackageFiles": [],
+  "expectedPackageFiles": [
+    "C:\\Users\\dimit\\.nuget\\packages\\microsoft.netcore.app.host.win-x64\\5.0.17\\microsoft.netcore.app.host.win-x64.5.0.17.nupkg.sha512",
+    "C:\\Users\\dimit\\.nuget\\packages\\microsoft.aspnetcore.app.ref\\5.0.0\\microsoft.aspnetcore.app.ref.5.0.0.nupkg.sha512",
+    "C:\\Users\\dimit\\.nuget\\packages\\microsoft.windowsdesktop.app.ref\\5.0.0\\microsoft.windowsdesktop.app.ref.5.0.0.nupkg.sha512",
+    "C:\\Users\\dimit\\.nuget\\packages\\microsoft.netcore.app.ref\\5.0.0\\microsoft.netcore.app.ref.5.0.0.nupkg.sha512"
+  ],
   "logs": []
 }
