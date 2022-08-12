@@ -1,8 +1,13 @@
 {
   "version": 2,
-  "dgSpecHash": "44gs9qaVWeVO6AmuI4bqrbHQp5bE0lI43kgVGg3jiBBazI0lKQcAHUclLjeMbFJo4z1c1WfupY1SzrnRI+p4EA==",
+  "dgSpecHash": "MKRI5opvMkbv+aUNNa1NH3wuIfJuIIHnmOnM81SUdsl80N129NveXzWww0Rv6fshSW2q2aI1PgBh+S2m0EA49g==",
   "success": true,
   "projectFilePath": "D:\\Programming\\Algorithms and data structures\\Recursion\\ArrayPermutations\\ArrayPermutations.csproj",
-  "expectedPackageFiles": [],
+  "expectedPackageFiles": [
+    "C:\\Users\\dimit\\.nuget\\packages\\microsoft.netcore.app.host.win-x64\\5.0.17\\microsoft.netcore.app.host.win-x64.5.0.17.nupkg.sha512",
+    "C:\\Users\\dimit\\.nuget\\packages\\microsoft.aspnetcore.app.ref\\5.0.0\\microsoft.aspnetcore.app.ref.5.0.0.nupkg.sha512",
+    "C:\\Users\\dimit\\.nuget\\packages\\microsoft.windowsdesktop.app.ref\\5.0.0\\microsoft.windowsdesktop.app.ref.5.0.0.nupkg.sha512",
+    "C:\\Users\\dimit\\.nuget\\packages\\microsoft.netcore.app.ref\\5.0.0\\microsoft.netcore.app.ref.5.0.0.nupkg.sha512"
+  ],
   "logs": []
 }
